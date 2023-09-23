@@ -5,8 +5,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Drohko#6520)
 
 <div align="left">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dielsonmatos&show_icons=true&count_private=true&show_border=true&title_color=239120&icon_color=239120&text_color=c9d1d9&bg_color=0d1117" alt="Dielson Matos github stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielsonmatos&layout=compact&show_border=true&title_color=239120&text_color=239120&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dielsonmatos&show_icons=true&count_private=true&show_border=true&title_color=007ACC0&icon_color=007ACC&text_color=c9d1d9&bg_color=0d1117" alt="Dielson Matos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielsonmatos&layout=compact&show_border=true&title_color=007ACC&text_color=007ACC&bg_color=0d1117" />
 </div><br>  
 
 Note: <i>Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code one GitHub.</i>
@@ -14,11 +14,11 @@ Note: <i>Top languages does not indicate my skill level or something like that, 
 ## Technologies I use to study!
 
 <div style="display: inline_block">
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7DF1E"/>
-<img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-276DC3?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div></br>  
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=F7DF1E"/>
+  <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-276DC3?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div><br/>  
 
 <b><i>“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”</i> NIKOLA TESLA</b></br></br>
 
