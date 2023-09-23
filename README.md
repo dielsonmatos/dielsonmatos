@@ -5,8 +5,8 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Drohko#6520)
 
 <div style="display: inline_block"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dielsonmatos&theme=blue-green" alt="Dielson Matos github stats" /><br>
-  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielsonmatos&theme=blue-green" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dielsonmatos&theme=blue-green" alt="Dielson Matos github stats" /><br>
+  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielsonmatos&theme=blue-green" />
 </div><br>  
 
 Note: <i>Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code one GitHub.</i>
@@ -18,9 +18,9 @@ Note: <i>Top languages does not indicate my skill level or something like that, 
   <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-276DC3?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br/>  
+</div><br>  
 
-<b><i>“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”</i> NIKOLA TESLA</b></br></br>
+<b><i>“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”</i>NIKOLA TESLA</b><br><br>
 
 - 🔭 I'm currently working to improve my knowledge as a developer
 - 🌱 I’m currently learning Python, MySql, .Net, C# and QA
