@@ -5,7 +5,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Drohko#6520)
 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dielsonmatos&show_icons=true&count_private=true&show_border=true&title_color=007ACC0&icon_color=007ACC&text_color=c9d1d9&bg_color=0d1117" alt="Dielson Matos github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dielsonmatos&show_icons=true&count_private=true&show_border=true&title_color=007ACC0&icon_color=007ACC&text_color=007ACC&bg_color=0d1117" alt="Dielson Matos github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielsonmatos&layout=compact&show_border=true&title_color=007ACC&text_color=007ACC&bg_color=0d1117" />
 </div><br>  
 
