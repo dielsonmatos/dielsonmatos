@@ -4,9 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dielsonmatos/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Drohko#6520)
 
-<div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dielsonmatos&show_icons=true&count_private=true&show_border=true&title_color=007ACC0&icon_color=007ACC&text_color=007ACC&bg_color=0d1117" alt="Dielson Matos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielsonmatos&layout=compact&show_border=true&title_color=007ACC&text_color=007ACC&bg_color=0d1117" />
+<div style="display: inline_block"> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dielsonmatos&show_icons=true&count_private=true&show_border=true&title_color=E34F26&icon_color=E34F26&text_color=007ACC&bg_color=0d1117" alt="Dielson Matos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielsonmatos&layout=compact&show_border=true&title_color=E34F26&text_color=007ACC&bg_color=0d1117" />
 </div><br>  
 
 Note: <i>Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code one GitHub.</i>
