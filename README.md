@@ -5,8 +5,10 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Drohko#6520)
 
 <div style="display: inline_block"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dielsonmatos&show_icons=true&count_private=true&show_border=true&title_color=white&icon_color=E34F26&text_color=007ACC&bg_color=0d1117" alt="Dielson Matos github stats" /><br>
-  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielsonmatos&layout=compact&show_border=true&title_color=white&text_color=007ACC&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username={dielsonmatos}&theme=blue-green" alt="Dielson Matos github stats" /><br>
+  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username={dielsonmatos}&theme=blue-green" />
+
+  https://github-readme-stats.vercel.app/api?username={dielsonmatos}&theme=blue-green
 </div><br>  
 
 Note: <i>Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code one GitHub.</i>
