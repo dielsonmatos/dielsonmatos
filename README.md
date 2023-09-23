@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dielsonmatos/) 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/Drohko#6520)
 
-![Matos GitHub stats](https://github-readme-stats.vercel.app/api?username=dielsonmatos&show_icons=true&theme=dracula&count_private=true&&nbsp)
+![Matos GitHub stats](https://github-readme-stats.vercel.app/api?username=dielsonmatos&show_icons=true&theme=dracula&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dielsonmatos&show_icons=true&theme=dracula&count_private=true)
 
 Note: <i>Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code one GitHub.</i>
