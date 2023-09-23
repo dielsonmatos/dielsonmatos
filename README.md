@@ -16,7 +16,7 @@ Note: <i>Top languages does not indicate my skill level or something like that, 
   <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img align="center" alt="MySql" src="https://img.shields.io/badge/MySQL-276DC3?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div><br/><br/>
+</div><br/>
 
 <b><i>“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”</i> NIKOLA TESLA</b><br/>
 
