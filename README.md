@@ -8,6 +8,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dielsonmatos&hide_progress=true_icons=true&theme=dark)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dielsonmatos&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Dielson Matos github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielsonmatos&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
 Note: <i>Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code one GitHub.</i>
 
 ## Technologies I use to study!
@@ -25,3 +30,8 @@ Note: <i>Top languages does not indicate my skill level or something like that, 
 - 🌱 I’m currently learning Python, MySql, .Net, C# and QA
 - 👯 I’m looking to collaborate on projects
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dielsonmatos}/count.svg" /></p> 
+<br>
+</div>
