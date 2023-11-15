@@ -6,8 +6,8 @@
 
 <div align="left">
   <a href="https://github.com/dielsonmatos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dielsonmatos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielsonmatos&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=dielsonmatos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dielsonmatos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 Note: <i>Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code one GitHub.</i>
